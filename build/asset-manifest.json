@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-data-dashboard/static/css/main.574d192c.chunk.css",
+    "main.js": "/react-data-dashboard/static/js/main.73609e29.chunk.js",
+    "main.js.map": "/react-data-dashboard/static/js/main.73609e29.chunk.js.map",
+    "runtime-main.js": "/react-data-dashboard/static/js/runtime-main.8257d31a.js",
+    "runtime-main.js.map": "/react-data-dashboard/static/js/runtime-main.8257d31a.js.map",
+    "static/css/2.11f871ab.chunk.css": "/react-data-dashboard/static/css/2.11f871ab.chunk.css",
+    "static/js/2.8490603d.chunk.js": "/react-data-dashboard/static/js/2.8490603d.chunk.js",
+    "static/js/2.8490603d.chunk.js.map": "/react-data-dashboard/static/js/2.8490603d.chunk.js.map",
+    "index.html": "/react-data-dashboard/index.html",
+    "precache-manifest.1b55118327f18969927ae1f486891acb.js": "/react-data-dashboard/precache-manifest.1b55118327f18969927ae1f486891acb.js",
+    "service-worker.js": "/react-data-dashboard/service-worker.js",
+    "static/css/2.11f871ab.chunk.css.map": "/react-data-dashboard/static/css/2.11f871ab.chunk.css.map",
+    "static/css/main.574d192c.chunk.css.map": "/react-data-dashboard/static/css/main.574d192c.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8257d31a.js",
+    "static/css/2.11f871ab.chunk.css",
+    "static/js/2.8490603d.chunk.js",
+    "static/css/main.574d192c.chunk.css",
+    "static/js/main.73609e29.chunk.js"
+  ]
+}

@@ -2,8 +2,10 @@
   "name": "react-data-dashboard",
   "version": "0.2.0",
   "private": true,
+  "homepage": "https://shaun-jacks.github.io/react-data-dashboard/",
   "dependencies": {
     "connected-react-router": "^6.6.1",
+    "gh-pages": "^2.1.1",
     "namor": "^2.0.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
@@ -20,7 +22,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
