@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  --bgMore: black;
+  --bg: #121212;
+  --bgLess: rgb(37, 37, 37);
+  --bgOverlayColor: rgba(255, 255, 255, 0.78);
+  --navColor: #121212e7;
+  --primaryColor: #bb86fc;
+  --primaryVariantColor: #3700b3;
+  /*--accentColor: #03dac6;*/
+  --accentColor: #bb86fc;
+  --accentGradientStart: #03dac6;
+  --accentGradientEnd: #9267c7;
+  --brandColor: #ff7597;
+  --textColor: rgba(255, 255, 255, 0.87);
+  --textColorLess: rgba(255, 255, 255, 0.6);
+
+  background: var(--bgMore);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.active {
+  color: var(--accentColor);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+small,
+strong,
+li,
+a {
+  color: var(--textColor);
+}
