@@ -17,7 +17,7 @@ const App = () => {
         <Route path="/profile" exact component={Profile} />
         <Route path="/settings" exact component={Settings} />
         <Route path="/notifications" exact component={Notifications} />
-        <Route path="/" exact component={Login} />
+        <Route path="/" exact component={Dashboard} />
       </Switch>
     </Layout>
   );
